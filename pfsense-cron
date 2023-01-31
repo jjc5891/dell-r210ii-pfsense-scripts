@@ -1,0 +1,2 @@
+* 	* 	* 	* 	* 	root 	/usr/bin/nice -n20 /scripts/dell_ipmi_fan_control.sh
+*/15 	* 	* 	* 	* 	root 	/usr/bin/nice -n20 /scripts/porkbun_ddns.sh
